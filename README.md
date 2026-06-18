@@ -1,7 +1,7 @@
-# TITLE
-## TITLE
-### TITLE
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Pixelify+Sans&size=28&duration=2000&pause=1000&color=F7E531&background=FFFFFF00&center=true&vCenter=true&width=435&lines=NEW+DIRECTIVE%3A;BLAST+TARGET+TO+SMITHEREENS." alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
-𝘪 𝘨𝘦𝘵 𝙖𝙜𝙞𝙩𝙖𝙩𝙚𝙙/𝙨𝙩𝙧𝙚𝙨𝙨𝙚𝙙 𝙫𝙚𝙧𝙮 𝙚𝙖𝙨𝙞𝙡𝙮 𝘪𝘧 𝘱𝘦𝘰𝘱𝘭𝘦 𝘥𝘰 𝘯𝘰𝘵 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘦 𝘤𝘭𝘦𝘢𝘳𝘭𝘺, 𝘯𝘰 𝘮𝘢𝘵𝘵𝘦𝘳 𝘸𝘩𝘰 𝘵𝘩𝘦𝘺 𝘢𝘳𝘦.
+<img src="https://komarev.com/ghpvc/?username=angiehearts&label=criminals&color=f0d330&style=plastic"/>
 </p>
