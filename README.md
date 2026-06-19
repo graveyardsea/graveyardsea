@@ -24,3 +24,11 @@
 <p align="center">
 <img alt="Image" src="https://github.com/user-attachments/assets/6b177d9f-bddc-42a6-a439-098e858801ce" />
 </p>
+
+<p align="center">
+𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥 𝘬𝘪𝘯 , 𝘣𝘢𝘥𝘸𝘢𝘳𝘦 + 𝘵𝘢𝘶𝘯𝘵𝘱𝘦𝘦𝘭 𝘤'𝘭𝘪𝘯𝘬 .
+</p>
+
+<p align="center">
+𝙘+𝙝 𝙘𝙤𝙢𝙛𝙮 𝘢𝘭𝘸𝘢𝘺𝘴 , 𝘱𝘭𝘦𝘢𝘴𝘦 𝙙𝙣𝙘 𝘰𝘳 𝙘𝙤𝙫𝙚𝙧 .
+</p>
