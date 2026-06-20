@@ -10,29 +10,18 @@
 <img src="https://komarev.com/ghpvc/?username=angiehearts&label=criminals&color=f0d330&style=plastic"/>
 </p>
 
-<p align="center">
-<img width="426" height="240" alt="Image" src="https://github.com/user-attachments/assets/0b9e3b54-8269-40b5-bb2d-03591993418b" />
+<p align="left">
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/bacf4c99-e681-4cb4-b3fc-0a3c16e6a6a0" /> 
 </p>
 
-#
-
-<p align="center">
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/2050fda7-03f2-4421-a6b6-c7e35e17281e" />
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/f06dfec3-de60-4c44-bf3e-b8b1ad183acc" />
-</p>
-
-<p align="center">
-<img alt="Image" src="https://github.com/user-attachments/assets/6b177d9f-bddc-42a6-a439-098e858801ce" />
-</p>
-
-<p align="center">
+<p align="right">
 $${\color{#f5d847}𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥}$$ 𝘬𝘪𝘯 , $${\color{#02c202}𝘣𝘢𝘥𝘸𝘢𝘳𝘦}$$ + $${\color{#6fb6f7}𝘵𝘢𝘶𝘯𝘵}{\color{#f0d281}𝘱𝘦𝘦𝘭}$$ 𝘤'𝘭𝘪𝘯𝘬 .
 </p>
 　
-<p align="center">
+<p align="right">
 𝙘+𝙝 𝙘𝙤𝙢𝙛𝙮 𝘢𝘯𝘥 𝘦𝘯𝘤𝘰𝘶𝘳𝘢𝘨𝘦𝘥 ! 𝘱𝘭𝘴 𝙙𝙤 𝙣𝙤𝙩 𝙘𝙤𝙥𝙮 𝘰𝘳 𝙘𝙤𝙫𝙚𝙧 .
 </p>
 　
-<p align="center">
+<p align="right">
 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙞𝙣𝙩 , 𝘣𝘶𝘵 𝘢 𝙡𝙤𝙬 𝙨𝙤𝙘𝙞𝙖𝙡 𝙗𝙖𝙩𝙩𝙚𝙧𝙮 :'(
 </p>
