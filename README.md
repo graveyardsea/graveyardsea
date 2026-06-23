@@ -10,10 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=angiehearts&label=criminals&color=f0d330&style=plastic"/>
 </p>
 
-<p align="left">
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/bacf4c99-e681-4cb4-b3fc-0a3c16e6a6a0" /> 
-</p>
-
 <p align="center">
 $${\color{#f5d847}𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥}$$ 𝘬𝘪𝘯 , $${\color{#02c202}𝘣𝘢𝘥𝘸𝘢𝘳𝘦}$$ + $${\color{#6fb6f7}𝘵𝘢𝘶𝘯𝘵}{\color{#f0d281}𝘱𝘦𝘦𝘭}$$ 𝘤'𝘭𝘪𝘯𝘬 .
 </p>
