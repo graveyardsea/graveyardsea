@@ -22,6 +22,5 @@ $${\color{#f5d847}𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥}$$ 𝘬𝘪�
 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙞𝙣𝙩 , 𝘣𝘶𝘵 𝘢 𝙡𝙤𝙬 𝙨𝙤𝙘𝙞𝙖𝙡 𝙗𝙖𝙩𝙩𝙚𝙧𝙮 :'(
 </p>
 
-<p align="center">
-<img alt="Image" src="https://github.com/user-attachments/assets/18731edf-22e7-4eb6-aecd-c9923685f696" />
-</p>
+<p align="left">
+<img width="360" height="354" alt="Image" src="https://github.com/user-attachments/assets/bb6b743d-cf8f-4649-ac30-13a6c569efe6" />
