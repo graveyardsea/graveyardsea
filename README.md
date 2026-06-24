@@ -12,8 +12,8 @@
 
 <img align="right" img width="360"
 src="https://file.garden/ajnYj7Gi5Bay-oJ0/65e258e885f44881ffa1c97e4a90236e.700x700.jpg">
-ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ 
-ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ 
+　
+ㅤ 
 <p align="center">
 $${\color{#f5d847}𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥}$$ 𝘬𝘪𝘯 , $${\color{#02c202}𝘣𝘢𝘥𝘸𝘢𝘳𝘦}$$ + $${\color{#6fb6f7}𝘵𝘢𝘶𝘯𝘵}{\color{#f0d281}𝘱𝘦𝘦𝘭}$$ 𝘤'𝘭𝘪𝘯𝘬 .
 </p>
