@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&size=30&duration=3000&pause=3000&color=F7CE22&center=true&vCenter=true&width=435&lines=hark%2C+the+%22angel%22+bleeds." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&size=34&duration=3000&color=F3F78C&center=true&vCenter=true&repeat=false&width=435&lines=hark%2C+the+%22angel%22+bleeds." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://komarev.com/ghpvc/?username=graveyardsea&label=♡&color=f5dd76&style=plastic"/>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://komarev.com/ghpvc/?username=graveyardsea&label=♡&color=f5dd76&style=plastic"/>
 </p>
 
 
