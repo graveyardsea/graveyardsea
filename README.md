@@ -10,8 +10,14 @@
 
 　
 <p align="center">
-everything is a wip cause i'm a fat chud
+<img width="442" height="442" alt="Image" src="https://github.com/user-attachments/assets/b0ac14a0-8bf2-43d6-b986-583def810c41" />
 </p>
+
+<p align="center">
+wip cause i'm a fat chud
+</p>
+
+
 
 
 
