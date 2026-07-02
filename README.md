@@ -27,5 +27,5 @@ $${\color{#f5d847}𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥}$$ 𝘬𝘪�
 </p>
 
 <p align="center">
-<img width="2048" alt="Image" src="https://github.com/user-attachments/assets/31d5a924-233b-404e-b47c-e1686c084f75" />
+<img width="1500" alt="Image" src="https://github.com/user-attachments/assets/44caf702-381e-412c-b0ae-a19ff37cd855" title="c: uzmacchiato on tumblr"/>
 </p>
