@@ -2,10 +2,13 @@
 <img width="1500" alt="Image" src="https://github.com/user-attachments/assets/e42ee589-0861-400a-a79a-e1e2d79d5ea6" title="c: uzmacchiato on tumblr"/>
 </p>
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&size=30&duration=3000&pause=3000&color=F7CE22&center=true&vCenter=true&width=435&lines=hark%2C+the+%22angel%22+bleeds." alt="Typing SVG" /></a>
+</p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=graveyardsea&label=eridians&color=f0d330&style=plastic"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=graveyardsea&label=constructs&color=f0d330&style=plastic"/>
+</p>
 
 
 
