@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2048" alt="Image" src="https://github.com/user-attachments/assets/31d5a924-233b-404e-b47c-e1686c084f75" />
+<img width="1500" alt="Image" src="https://github.com/user-attachments/assets/e42ee589-0861-400a-a79a-e1e2d79d5ea6" title="c: uzmacchiato on tumblr"/>
 </p>
 
 <p align="center">
